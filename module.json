@@ -1,0 +1,163 @@
+{
+  "id": "fup-custom-compendium-trad",
+  "title": "[FUP] Compendium vf",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Wyatt Schutzengel",
+      "flags": {}
+    },
+    {
+      "name": "Craftheo",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "classe",
+      "label": "Classe",
+      "path": "packs/classe",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "stuff",
+      "label": "Équipement",
+      "path": "packs/stuff",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mechant",
+      "label": "Méchant",
+      "path": "packs/mechant",
+      "type": "Actor",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes-additionnelles",
+      "label": "Classes additionnelles",
+      "path": "packs/classes-additionnelles",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cartes-as-de-coeur",
+      "label": "Cartes \"As de Coeur\"",
+      "path": "packs/cartes-as-de-coeur",
+      "type": "Cards",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "jrpg-playlist",
+      "label": "JRPG Playlist",
+      "path": "packs/jrpg-playlist",
+      "type": "Playlist",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journaux",
+      "label": "Journaux",
+      "path": "packs/journaux",
+      "type": "JournalEntry",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "sort-mechants",
+      "label": "Sort Méchants",
+      "path": "packs/sort-mechants",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classe-homebrew",
+      "label": "Classe Homebrew",
+      "path": "packs/classe-homebrew",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macro-jrpg-attack",
+      "label": "Macro JRPG Attack",
+      "path": "packs/macro-jrpg-attack",
+      "type": "Macro",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "atlas-de-techno-fantasy",
+      "label": "Atlas de Techno Fantasy",
+      "path": "packs/atlas-de-techno-fantasy",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pnj",
+      "label": "PNJ",
+      "path": "packs/pnj",
+      "type": "Actor",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "atlas-high-fantasy",
+      "label": "Atlas High Fantasy",
+      "path": "packs/atlas-high-fantasy",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
